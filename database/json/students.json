@@ -1,0 +1,42 @@
+[
+    {
+        "s_name" : "salman",
+        "s_email" : "salman@gmail.com"
+    },
+    {
+        "s_name" : "hammad",
+        "s_email" : "hammad@gmail.com"
+    },
+    {
+        "s_name" : "jamal",
+        "s_email" : "jamal@gmail.com"
+    },
+    {
+        "s_name" : "uzair",
+        "s_email" : "uzair@gmail.com"
+    },
+    {
+        "s_name" : "kamran",
+        "s_email" : "kamran@gmail.com"
+    },
+    {
+        "s_name" : "ali",
+        "s_email" : "ali@gmail.com"
+    },
+    {
+        "s_name" : "hamza",
+        "s_email" : "hamza@gmail.com"
+    },
+    {
+        "s_name" : "uneeb",
+        "s_email" : "uneeb@gmail.com"
+    },
+    {
+        "s_name" : "yasir",
+        "s_email" : "yasir@gmail.com"
+    },
+    {
+        "s_name" : "rabeet",
+        "s_email" : "rabeet@gmail.com"
+    }
+]

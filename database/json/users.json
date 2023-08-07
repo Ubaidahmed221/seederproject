@@ -1,0 +1,64 @@
+[
+    {
+        "name" : "salman",
+        "email" : "salman@gmail.com",
+        "age" : 20,
+        "city" : "lahore"
+    },
+    {
+        "name" : "kamran",
+        "email" : "kamran@gmail.com",
+        "age" : 22,
+        "city" : "karachi"
+    },
+    {
+        "name" : "noman",
+        "email" : "noman@gmail.com",
+        "age" : 19,
+        "city" : "peshawar"
+    },
+    {
+        "name" : "hassan",
+        "email" : "hassan@gmail.com",
+        "age" : 25,
+        "city" : "multan"
+    },
+    {
+        "name" : "jamal",
+        "email" : "jamal@gmail.com",
+        "age" : 24,
+        "city" : "Islamabad"
+    },
+    {
+        "name" : "atif",
+        "email" : "atif@gmail.com",
+        "age" : 32,
+        "city" : "hydarabad"
+    },
+    {
+        "name" : "faisal",
+        "email" : "faisal@gmail.com",
+        "age" : 29,
+        "city" : "Quetta"
+    },
+    {
+        "name" : "kashif",
+        "email" : "kashif@gmail.com",
+        "age" : 28,
+        "city" : "faisalabad"
+    },
+    {
+        "name" : "hamad",
+        "email" : "hamad@gmail.com",
+        "age" : 32,
+        "city" : "lahore"
+    },
+    {
+        "name" : "khalid",
+        "email" : "khalid@gmail.com",
+        "age" : 20,
+        "city" : "karachi"
+    }
+
+
+]
